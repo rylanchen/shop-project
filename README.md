@@ -1,6 +1,7 @@
 # 市集 Rylan Chen的轻电商练手项目
 2025/08/26 暂完 待优化
 已部署至Vercel，地址：https://shop-project-henna-six.vercel.app/
+
 基于 React + Vite + Zustand，用于学习、练习、参考。
 docs文件夹里有一个踩坑记录供后续参考。
 

@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "手冲咖啡豆 250g",
+      "price": 48.9,
+      "brand": "山口小店",
+      "category": "饮品",
+      "thumbnail": "/placeholder.png",
+      "description": "中度烘焙，日常口粮。做冷萃也还行。",
+      "stock": 120,
+      "weight": "250g"
+    },
+    {
+      "id": 2,
+      "title": "随身保温杯 480ml",
+      "price": 69,
+      "brand": "东川制造",
+      "category": "居家",
+      "thumbnail": "/placeholder.png",
+      "description": "冬天不想喝凉水的救星。密封不错。",
+      "stock": 52,
+      "weight": "260g"
+    },
+    {
+      "id": 3,
+      "title": "蓝牙耳机（入门款）",
+      "price": 129,
+      "brand": "声研社",
+      "category": "数码",
+      "thumbnail": "/placeholder.png",
+      "description": "公交地铁够用，开盒即连。",
+      "stock": 33,
+      "weight": "180g"
+    },
+    {
+      "id": 4,
+      "title": "棉拖鞋（加绒）",
+      "price": 39.5,
+      "brand": "足下生花",
+      "category": "服饰",
+      "thumbnail": "/placeholder.png",
+      "description": "北方屋里穿很合适，脚冷党友好。",
+      "stock": 80,
+      "weight": "400g"
+    },
+    {
+      "id": 5,
+      "title": "速食鸡胸肉 200g",
+      "price": 18.8,
+      "brand": "轻食屋",
+      "category": "食品",
+      "thumbnail": "/placeholder.png",
+      "description": "健身搭子，微波炉 90 秒。",
+      "stock": 200,
+      "weight": "200g"
+    }
+  ]
+}
